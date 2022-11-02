@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axelasa Mobile Applications Developer based in Nairobi, Kenya.
+- 👋 Hi, I’m Axel Asa, a Mobile Applications Developer based in Nairobi, Kenya.
 
 <br>
  
