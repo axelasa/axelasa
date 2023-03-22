@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Axel Asa, a Mobile Applications Developer based in Nairobi, Kenya.
-- 
-- <a href="https://www.instagram.com/axelasa/">
+<a href="https://www.instagram.com/axelasa/">
   <img align="left" alt="Axel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-<a href="https://twitter.com/AxelAsa2">
+  <a href="https://twitter.com/AxelAsa2">
   <img align="left" alt="Axel Asa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/axel-asa-855203141/">
