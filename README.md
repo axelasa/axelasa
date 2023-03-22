@@ -1,4 +1,12 @@
 - 👋 Hi, I’m Axel Asa, a Mobile Applications Developer based in Nairobi, Kenya.
+- <a href="https://www.instagram.com/axelasa/">
+  <img align="left" alt="Axel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://twitter.com/AxelAsa2">
+  <img align="left" alt="Axel Asa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/axel-asa-855203141/">
+  <img align="left" alt="Axel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <br>
  
@@ -17,9 +25,9 @@
 - Frameworks -> Flutter, Spring Boot
 - 💞️ I’m looking to collaborate on any native Mobile App
 - 📫 How to reach me on email (@asaaxel82@gmail.com) 
-- Linked In:( www.linkedin.com/in/axel-asa-855203141) t
-- witter:( https://twitter.com/AxelAsa2) and here on github.
 - And on my cell +254718551064.
+ 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!---
 axelasa/axelasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
