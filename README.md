@@ -18,7 +18,7 @@
 </tr>
 </table>
 </center>
-- 👀 I’m interested in Native Mobile Applicatio Development
+- 👀 I’m interested in Mobile Application Development
 - I also do Hybrid Applications using Flutter
 - 🌱 I’m currently well versed in Android,iOS,RestApi
 - SDKs -> Android iOS
