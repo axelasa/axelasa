@@ -32,6 +32,16 @@
  ## 🏆 GitHub Trophies
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ <!--START_SECTION:waka-->
+ 
+ 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+ 
+<!--END_SECTION:waka-->
 
 <!---
 axelasa/axelasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
