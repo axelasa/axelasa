@@ -29,20 +29,9 @@
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
- 📊 **this week i spent my time on:**
+ ## 🏆 GitHub Trophies
   
-  <!--START_SECTION:waka-->
-
-```text
-TypeScript   7 hrs 38 mins   ██████████████████▓░░░░░░   74.25 %
-JavaScript   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-JSON         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Groovy       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-```
-
-<!--END_SECTION:waka-->
+ [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 axelasa/axelasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
