@@ -24,7 +24,7 @@
 - SDKs -> Android iOS
 - Frameworks -> Flutter, Spring Boot
 - 💞️ I’m looking to collaborate on any native Mobile App
-- 📫 How to reach me on email (@asaaxel82@gmail.com) 
+- 📫 you can reach me on [email](mailto:@asaaxel82@gmail.com) 
 - And on my cell +254718551064.
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
