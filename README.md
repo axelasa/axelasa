@@ -24,10 +24,25 @@
 - SDKs -> Android iOS
 - Frameworks -> Flutter, Spring Boot
 - 💞️ I’m looking to collaborate on any native Mobile App
-- 📫 you can reach me on mailto:asaaxel82@gmail.com
+- 📫 you can reach me on email, asaaxel82@gmail.com 
 - And on my cell +254718551064.
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+ 📊 **this week i spent my time on:**
+  
+  <!--START_SECTION:waka-->
+
+```text
+TypeScript   7 hrs 38 mins   ██████████████████▓░░░░░░   74.25 %
+JavaScript   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+JSON         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Groovy       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+```
+
+<!--END_SECTION:waka-->
 
 <!---
 axelasa/axelasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
