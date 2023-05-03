@@ -58,7 +58,7 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     1 hr 49 mins        █████████████████████████   100.00 % 
+Dart                     27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -78,7 +78,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2023 01:07:32 UTC
+ Last Updated on 03/05/2023 01:06:45 UTC
 <!--END_SECTION:waka-->
 
 <!---
