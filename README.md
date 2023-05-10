@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Axel Asa, a Mobile Applications Developer based in Nairobi, Kenya.
+- 👋 Hi, I’m Axel Asa, a Mobile Application Developer based in Nairobi, Kenya.
 <a href="https://www.instagram.com/axelasa/">
   <img align="left" alt="Axel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   <a href="https://twitter.com/AxelAsa2">
