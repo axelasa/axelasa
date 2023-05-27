@@ -34,17 +34,17 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.5 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2023
+> 🏆 49 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,11 +58,11 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     22 hrs 39 mins      ███████████████████░░░░░░   76.89 % 
-Kotlin                   3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-textmate                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Dart                     24 hrs 3 mins       ███████████████████░░░░░░   77.94 % 
+Kotlin                   3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+textmate                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2023 01:06:51 UTC
+ Last Updated on 27/05/2023 01:08:56 UTC
 <!--END_SECTION:waka-->
 
 <!---
