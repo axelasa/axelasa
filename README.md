@@ -34,21 +34,21 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 45.0 kB Used in GitHub's Storage 
+> 📦 45.3 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2023
+> 🏆 56 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -58,21 +58,21 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     19 hrs 46 mins      ████████████████████████░   96.59 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Dart                     24 hrs 37 mins      ████████████████████████░   97.24 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   20 repos            █████████████████░░░░░░░░   68.97 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Kotlin                   20 repos            █████████████████░░░░░░░░   66.67 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2023 01:14:42 UTC
+ Last Updated on 20/06/2023 01:12:19 UTC
 <!--END_SECTION:waka-->
 
 <!---
