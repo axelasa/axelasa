@@ -34,15 +34,15 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 46.3 kB Used in GitHub's Storage 
+> 📦 48.3 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2023
  > 
@@ -58,11 +58,11 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     26 hrs 3 mins       ███████████████████░░░░░░   76.93 % 
-Kotlin                   3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Text                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-textmate                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Dart                     25 hrs 36 mins      ████████████████████░░░░░   80.63 % 
+Kotlin                   2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Text                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+textmate                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Swift                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2023 01:26:10 UTC
+ Last Updated on 18/07/2023 01:45:54 UTC
 <!--END_SECTION:waka-->
 
 <!---
