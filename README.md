@@ -5,7 +5,7 @@
   <img align="left" alt="Axel Asa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/axel-asa-855203141/">
-  <img align="left" alt="Axel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Axel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br>
@@ -20,11 +20,11 @@
 </center>
 - 👀 I’m interested in Mobile Application Development
 - I also do Hybrid Applications using Flutter
-- 🌱 I’m currently well versed in Android,iOS,RestApi
+- 🌱 I’m currently well versed in Android, iOS, RestApi
 - SDKs -> Android iOS
 - Frameworks -> Flutter, Spring Boot
 - 💞️ I’m looking to collaborate on any native Mobile App
-- 📫 you can reach me on email, asaaxel82@gmail.com 
+- 📫 you can reach me by email at asaaxel82@gmail.com 
 - And on my cell +254718551064.
  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
