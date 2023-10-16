@@ -34,7 +34,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,11 +58,11 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     11 hrs 30 mins      ████████████████░░░░░░░░░   63.19 % 
-Kotlin                   4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Java Properties          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-XML                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Dart                     11 hrs 29 mins      ████████████████░░░░░░░░░   62.70 % 
+Kotlin                   4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Java Properties          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+XML                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,7 +82,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2023 01:02:11 UTC
+ Last Updated on 16/10/2023 00:59:20 UTC
 <!--END_SECTION:waka-->
 
 <!---
