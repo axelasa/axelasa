@@ -38,11 +38,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.6 kB Used in GitHub's Storage 
+> 📦 49.7 kB Used in GitHub's Storage 
  > 
 > 🏆 107 Contributions in the Year 2023
  > 
@@ -58,11 +58,11 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     7 hrs 44 mins       ██████████████████████░░░   87.01 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Groovy                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Dart                     6 hrs 24 mins       ███████████████████░░░░░░   75.87 % 
+Kotlin                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,7 +82,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2023 01:02:34 UTC
+ Last Updated on 19/12/2023 01:01:19 UTC
 <!--END_SECTION:waka-->
 
 <!---
