@@ -58,11 +58,7 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-YAML                     56 mins             ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Gradle                   51 mins             ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Dart                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Groovy                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -82,7 +78,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2023 00:58:47 UTC
+ Last Updated on 29/12/2023 00:50:50 UTC
 <!--END_SECTION:waka-->
 
 <!---
