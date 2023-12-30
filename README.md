@@ -58,7 +58,7 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -78,7 +78,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 00:50:50 UTC
+ Last Updated on 30/12/2023 00:58:41 UTC
 <!--END_SECTION:waka-->
 
 <!---
