@@ -44,8 +44,6 @@
 
 > 📦 49.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -61,6 +59,7 @@
 Dart                     15 hrs 19 mins      █████████████████████████   100.00 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,7 +79,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2024 01:01:30 UTC
+ Last Updated on 18/03/2024 00:58:58 UTC
 <!--END_SECTION:waka-->
 
 <!---
