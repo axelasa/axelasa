@@ -42,9 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 50.0 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2024
+> 📦 50.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,8 +56,11 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     3 hrs 44 mins       █████████████████████████   99.59 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Dart                     4 hrs 44 mins       ████████████████████████░   95.36 % 
+Groovy                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,7 +80,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 01:00:40 UTC
+ Last Updated on 25/04/2024 01:02:29 UTC
 <!--END_SECTION:waka-->
 
 <!---
