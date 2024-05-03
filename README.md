@@ -56,9 +56,7 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     1 hr 26 mins        ██████████████████░░░░░░░   70.17 % 
-Groovy                   23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Dart                     13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -78,7 +76,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 01:00:05 UTC
+ Last Updated on 03/05/2024 01:03:23 UTC
 <!--END_SECTION:waka-->
 
 <!---
