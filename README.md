@@ -2,11 +2,12 @@
 <a href="https://www.instagram.com/axelasa/">
   <img align="left" alt="Axel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   <a href="https://twitter.com/AxelAsa2">
-  <img align="left" alt="Axel Asa | Twitter" width="22px" src="https://github.com/axelasa/axelasa/assets/30687283/92e76866-8bcc-4cca-af21-5047c6d89b49" />
+  <img align="left" alt="Axel Asa | Twitter" width="22px" src="https://github.com/axelasa/axelasa/assets/30687283/2ab6c0bf-ed70-4a43-9f18-c4e58536c612" />
 </a>
 <a href="https://www.linkedin.com/in/axel-asa-855203141/">
   <img align="left" alt="Axel's LinkedIn" width="22px" src="https://github.com/axelasa/axelasa/assets/30687283/8743ccf5-19b7-48f4-8224-f4179a837141" />
 </a>
+
 
 
 
