@@ -40,7 +40,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C669%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.9%20thousand%20lines%20of%20code-blue)
 
@@ -48,7 +48,7 @@
 
 > 📦 53.8 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
+> 🏆 10 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,11 +62,11 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     16 hrs 18 mins      ██████████████░░░░░░░░░░░   57.68 % 
-TypeScript               6 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-CSS                      5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Dart                     16 hrs 17 mins      ██████████████░░░░░░░░░░░   54.59 % 
+TypeScript               7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+CSS                      5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -86,7 +86,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2024 01:04:09 UTC
+ Last Updated on 28/05/2024 01:03:07 UTC
 <!--END_SECTION:waka-->
 
 <!---
