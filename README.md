@@ -48,8 +48,6 @@
 
 > 📦 53.8 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 51 Public Repositories 
@@ -86,7 +84,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 01:07:48 UTC
+ Last Updated on 03/06/2024 01:04:54 UTC
 <!--END_SECTION:waka-->
 
 <!---
