@@ -38,6 +38,8 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.9%20thousand%20lines%20of%20code-blue)
@@ -45,8 +47,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 53.8 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,7 +83,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 01:09:59 UTC
+ Last Updated on 17/06/2024 01:07:15 UTC
 <!--END_SECTION:waka-->
 
 <!---
