@@ -48,6 +48,8 @@
 
 > 📦 53.8 kB Used in GitHub's Storage 
  > 
+> 🏆 10 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 51 Public Repositories 
@@ -60,10 +62,9 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       ████████████████████████░   95.08 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               3 hrs               █████████████████████████   99.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -83,7 +84,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2024 01:07:15 UTC
+ Last Updated on 18/06/2024 01:05:48 UTC
 <!--END_SECTION:waka-->
 
 <!---
