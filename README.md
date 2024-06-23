@@ -38,7 +38,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -47,8 +47,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 53.8 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +84,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 01:04:05 UTC
+ Last Updated on 23/06/2024 01:09:27 UTC
 <!--END_SECTION:waka-->
 
 <!---
