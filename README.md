@@ -38,8 +38,6 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C001%20hrs%2021%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -62,8 +60,9 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Markdown                 11 mins             ███████████████░░░░░░░░░░   58.39 % 
-Dart                     8 mins              ██████████░░░░░░░░░░░░░░░   41.59 % 
+Dart                     12 mins             █████████████░░░░░░░░░░░░   52.10 % 
+Markdown                 11 mins             ████████████░░░░░░░░░░░░░   47.84 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -84,7 +83,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 01:20:46 UTC
+ Last Updated on 01/12/2024 01:42:16 UTC
 <!--END_SECTION:waka-->
 
 <!---
