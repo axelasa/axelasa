@@ -48,8 +48,6 @@
 
 > 📦 944.6 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 56 Public Repositories 
@@ -82,7 +80,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2024 01:19:24 UTC
+ Last Updated on 31/12/2024 01:17:04 UTC
 <!--END_SECTION:waka-->
 
 <!---
