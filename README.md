@@ -38,7 +38,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C016%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C021%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,6 +47,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 979.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,8 +62,8 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     6 hrs 19 mins       █████████████████░░░░░░░░   69.87 % 
-Markdown                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Dart                     6 hrs 19 mins       █████████████████░░░░░░░░   69.86 % 
+Markdown                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
 YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 GitIgnore file           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
@@ -84,7 +86,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 01:15:18 UTC
+ Last Updated on 17/01/2025 01:15:14 UTC
 <!--END_SECTION:waka-->
 
 <!---
