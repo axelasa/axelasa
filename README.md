@@ -62,10 +62,7 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Dart                     1 hr 18 mins        ████████████████████████░   94.61 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,7 +82,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2025 01:17:08 UTC
+ Last Updated on 08/02/2025 01:15:01 UTC
 <!--END_SECTION:waka-->
 
 <!---
