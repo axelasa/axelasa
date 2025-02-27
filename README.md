@@ -48,9 +48,11 @@
 
 > 📦 982.5 kB Used in GitHub's Storage 
  > 
+> 🏆 55 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -60,7 +62,8 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 5 mins         █████████████████████████   99.96 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -80,7 +83,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2025 01:18:54 UTC
+ Last Updated on 27/02/2025 01:19:14 UTC
 <!--END_SECTION:waka-->
 
 <!---
