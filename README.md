@@ -38,7 +38,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,16 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Kotlin                   1 hr 2 mins         █████████████████████░░░░   85.83 % 
+XML                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -73,7 +83,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 01:53:14 UTC
+ Last Updated on 02/06/2025 01:42:05 UTC
 <!--END_SECTION:waka-->
 
 <!---
