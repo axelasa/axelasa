@@ -48,8 +48,6 @@
 
 > 📦 984.1 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 65 Public Repositories 
@@ -62,11 +60,7 @@
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-YAML                     1 min               ████████████████████░░░░░   79.72 % 
-Dart                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -86,7 +80,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/axelasa/axelasa/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 01:48:30 UTC
+ Last Updated on 16/07/2025 01:45:08 UTC
 <!--END_SECTION:waka-->
 
 <!---
