@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Axel%20Asa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Mobile%20|%20Backend%20Engineer%20%E2%80%A2%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" width="100%" /> <div align="center"> <a href="https://git.io/typing-svg"> /> </a> <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Axel%20Asa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Mobile%20|%20Backend%20Engineer%20%E2%80%A2%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" width="100%" /> <div align="center"> <a href="https://git.io/typing-svg"> </a> <br/>
 
  <img src="./assets/header.png" alt="Axel Asa — Mobile & Backend Engineer, portrait drawn in code" width="100%" /> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Mobile+%26+Backend+Engineer;Flutter+%26+Native+Android;Building+production+banking+apps;Kotlin+%E2%80%A2+Dart+%E2%80%A2+Swift+%E2%80%A2+Spring+Boot;I+also+teach+Flutter+%26+Kotlin"/> </a> <br/>
 
