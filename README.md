@@ -7,11 +7,19 @@
 
 </div>
 
+I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech and banking apps used by thousands of customers every day.
 
-
-
+🏦 I ship and maintain mobile banking apps for banks and SACCOs across East Africa
+📱 I build native Android (Kotlin), iOS, and cross-platform (Flutter) apps
+⚙️ On the backend I use Spring Boot, REST APIs, and Supabase
+👨‍🏫 I teach Flutter/Dart and Kotlin to developers
+🤝 Open to collaborating on mobile apps, fintech, and open-source Flutter packages
+📫 Reach me at asaaxel82@gmail.com
 
 <br>
+
+🛠️ Tech stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift,java,androidstudio,spring,firebase,supabase,postgres&perline=10" /> <br/> <img src="https://skillicons.dev/icons?i=go,react,ts,git,github,docker,linux,figma,vscode,idea&perline=10" /> </p>
  
 <center>
 <table>
