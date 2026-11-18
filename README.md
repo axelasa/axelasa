@@ -44,9 +44,9 @@ I'm a **Mobile & Backend Engineer** in Nairobi, Kenya, building production finte
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
  ## 🏆 GitHub Trophies
-  
- [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
+  </div> </details> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+  
  <br>
  
  
