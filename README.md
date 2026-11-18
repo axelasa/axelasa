@@ -9,15 +9,15 @@
 
 <br>
 
-I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech and banking apps used by thousands of customers every day.
+I'm a **Mobile & Backend Engineer** in Nairobi, Kenya, building production fintech and banking apps used by thousands of customers every day.
 
-🏦 I ship and maintain mobile banking apps for banks and SACCOs across East Africa
-📱 I build native Android (Kotlin), iOS, and cross-platform (Flutter) apps
-⚙️ On the backend I use Spring Boot, REST APIs, and Supabase
-👨‍🏫 I teach Flutter/Dart and Kotlin to developers
-🤝 Open to collaborating on mobile apps, fintech, and open-source Flutter packages
-📫 Reach me at asaaxel82@gmail.com
-- And on my cell +254794227892.
+- 🏦 I ship and maintain **mobile banking apps** for banks and SACCOs across East Africa
+- 📱 I build **native Android (Kotlin)**, **iOS**, and **cross-platform (Flutter)** apps
+- ⚙️ On the backend I use **Spring Boot**, REST APIs, and **Supabase**
+- 👨‍🏫 I **teach** Flutter/Dart and Kotlin to developers
+- 🤝 Open to collaborating on **mobile apps, fintech, and open-source Flutter packages**
+- 📫 Reach me at **asaaxel82@gmail.com**
+- 📞 And on my cell **+254794227892**
 
 <br>
 
@@ -27,7 +27,7 @@ I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech a
 <br>
 
 📊 GitHub stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=axelasa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelasa&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=axelasa&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=axelasa&theme=tokyo-night&hide_border=true&area=true" /> </div> <details> <summary>🏆 GitHub trophies</summary> <br/> <div align="center">
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=axelasa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelasa&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=axelasa&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=axelasa&theme=tokyo-night&hide_border=true&area=true" /> <br> </div> <details> <summary>🏆 GitHub trophies</summary> <br/> <div align="center">
  
  <br>
  
