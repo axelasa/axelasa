@@ -7,6 +7,8 @@
 
 </div>
 
+<br>
+
 I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech and banking apps used by thousands of customers every day.
 
 🏦 I ship and maintain mobile banking apps for banks and SACCOs across East Africa
@@ -15,6 +17,7 @@ I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech a
 👨‍🏫 I teach Flutter/Dart and Kotlin to developers
 🤝 Open to collaborating on mobile apps, fintech, and open-source Flutter packages
 📫 Reach me at asaaxel82@gmail.com
+- And on my cell +254794227892.
 
 <br>
 
@@ -29,20 +32,21 @@ I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech a
 </tr>
 </table>
 </center>
-- 👀 I’m interested in Mobile Application Development
-- I also do Hybrid Applications using Flutter
-- 🌱 I’m currently well versed in Android, iOS, RestApi
-- SDKs -> Android iOS
-- Frameworks -> Flutter, Spring Boot
-- 💞️ I’m looking to collaborate on any native Mobile App
-- 📫 you can reach me by email at asaaxel82@gmail.com 
-- And on my cell +254794227892.
- 
+
+<br>
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
  ## 🏆 GitHub Trophies
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=axelasa&theme=nord&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+ <br>
+ 
+📊 GitHub stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=axelasa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelasa&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=axelasa&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=axelasa&theme=tokyo-night&hide_border=true&area=true" /> </div> <details> <summary>🏆 GitHub trophies</summary> <br/> <div align="center">
+ 
+ <br>
  
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2019%20mins-blue)
