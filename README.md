@@ -41,13 +41,20 @@ I'm a **Mobile & Backend Engineer** in Nairobi, Kenya, building production finte
 </center> -->
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
- ## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
-  </div> </details> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
-  
- <br>
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=axelasa&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=6&margin-h=6" alt="trophies" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
+    </td>
+  </tr>
+</table>
  
  
  <!--START_SECTION:waka-->
