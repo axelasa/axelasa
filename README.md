@@ -23,17 +23,23 @@ I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech a
 
 🛠️ Tech stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,swift,java,androidstudio,spring,firebase,supabase,postgres&perline=10" /> <br/> <img src="https://skillicons.dev/icons?i=go,react,ts,git,github,docker,linux,figma,vscode,idea&perline=10" /> </p>
+
+<br>
+
+📊 GitHub stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=axelasa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelasa&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=axelasa&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=axelasa&theme=tokyo-night&hide_border=true&area=true" /> </div> <details> <summary>🏆 GitHub trophies</summary> <br/> <div align="center">
  
-<center>
+ <br>
+ 
+<!-- <center>
 <table>
 <tr>
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=axelasa&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
 <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelasa&hide=html&layout=compact&theme=dark" /></td>
 </tr>
 </table>
-</center>
+</center> -->
 
-<br>
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -43,10 +49,6 @@ I'm a Mobile & Backend Engineer in Nairobi, Kenya, building production fintech a
 
  <br>
  
-📊 GitHub stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=axelasa&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelasa&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=axelasa&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=axelasa&theme=tokyo-night&hide_border=true&area=true" /> </div> <details> <summary>🏆 GitHub trophies</summary> <br/> <div align="center">
- 
- <br>
  
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2019%20mins-blue)
